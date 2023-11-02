@@ -19,7 +19,7 @@ body{
     display: flex;
     width: 50%;
     align-items: center;
-    justify-content: center;
+    margin-left: 3%;
 }
 .right{
  display: flex;
@@ -66,4 +66,7 @@ h2{
 }
 .tienes{
     margin-top: 70px;
+}
+.btn2{
+    padding: 11px;
 }
